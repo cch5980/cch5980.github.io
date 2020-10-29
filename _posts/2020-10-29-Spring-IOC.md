@@ -19,6 +19,7 @@ category: Web, Spring
 
 POJO의 생성, 초기화, 서비스, 소멸에 대한 권한을 가진다.
 
+![spring](https://user-images.githubusercontent.com/23491962/97589426-d218c580-1a40-11eb-8a39-8b527db75eff.JPG)
 
 
 ### POJO?
