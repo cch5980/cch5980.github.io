@@ -42,7 +42,6 @@ category: Web, Spring
 ## Filter, Interceptor, AOP의 개념
 
 1. Filter
-
    - Servlet Filter는 DispatcherServlet 이전에 실행이 되기 때문에 앞단에서 요청내용을 변경하거나 여러가지 체크를 할 수 있다.
    - 또한 자원의 처리가 끝난 후 응답내용에 대해서도 변경하는 처리를 할 수 있다.
    - web.xml에 등록한다.
@@ -53,8 +52,8 @@ category: Web, Spring
 
    
 
-2. Interceptor
 
+2. Interceptor
    - 스프링은 DispathcerServlet으로부터 시작이 되므로 Filter는 스프링 컨텍스트 외부에 존재한다.
    - 하지만 Interceptor는 스프링의 DispathcerServlet이 컨트롤러를 호출하기 전,후로 끼어들기 때문에 스프링 컨텍스트 내부에 존재한다.
    - 스프링 내의 모든 객체(Bean) 접근이 가능하다.
@@ -65,8 +64,8 @@ category: Web, Spring
 
    
 
-3. AOP
 
+3. AOP
    - OOP를 보완하기 위해 나온 개념
    - 기존의 OOP로직의 흐름은 계정, 게시판, 계좌이체를 처리할 때마다 권한, 트랜잭션, 로깅을 처리해야하기 때문에 모든 로직에서 똑같은 코드가 반복
    - 이러한 중복을 줄이기 위해 종단면(관점)에서 바라보고 처리
