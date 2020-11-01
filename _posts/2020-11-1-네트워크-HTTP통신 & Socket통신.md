@@ -24,6 +24,11 @@ category: Web, Network
 
 
 
+
+
+
+
+
 # Socket 통신
 
 - <u>Server와 Client가 특정 port를 통해 연결을 성립하고 있어 실시간</u>으로 <span style="color:red">**양방향 통신**</span>(실시간 통신이 필요한 경우에 자주 사용)
