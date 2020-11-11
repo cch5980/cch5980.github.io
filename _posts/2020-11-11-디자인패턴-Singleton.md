@@ -49,7 +49,7 @@ Public class Singleton {
 
 - **다중 스레드**에서 동기화 처리를 하지 않으면 **인스턴스가 1개 이상 생성**되는 경우가 발생할 수 있다.
 
-![singleton](C:\Users\cch\Desktop\singleton.JPG)
+![singleton](https://user-images.githubusercontent.com/23491962/98838289-65adb580-2487-11eb-820f-629a48dfb6a7.JPG)
 
 
 
