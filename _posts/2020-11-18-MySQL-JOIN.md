@@ -61,9 +61,9 @@ INSERT INTO singer (id, name, debut) VALUES (10, '마룬5', '2020-10-01');
 INSERT INTO singer (id, name, debut) VALUES (11, '존레전드', '2020-11-01');
 ```
 
-![join1](C:\Users\cch\Desktop\join1.JPG)
+![join1](https://user-images.githubusercontent.com/23491962/99553642-b9794b00-2a01-11eb-9c75-2df5679b025f.JPG)
 
-![join2](C:\Users\cch\Desktop\join2.JPG)
+![join2](https://user-images.githubusercontent.com/23491962/99553644-b9794b00-2a01-11eb-8fe0-4e707549cb57.JPG)
 
 
 
@@ -78,7 +78,7 @@ JOIN song AS B
 ON B.id = A.hit_song_id;
 ```
 
-![join3](C:\Users\cch\Desktop\join3.JPG)
+![join3](https://user-images.githubusercontent.com/23491962/99553647-ba11e180-2a01-11eb-88a4-2fb5eda46bff.JPG)
 
 
 
@@ -106,11 +106,12 @@ JOIN song AS B
 ON B.id = A.hit_song_id; 
 ```
 
-![join5](C:\Users\cch\Desktop\join5.JPG![join4](C:\Users\cch\Desktop\join4.JPG)
+![join4](https://user-images.githubusercontent.com/23491962/99553648-ba11e180-2a01-11eb-99c1-447e88d62f13.JPG)
 
 현재 SQLite에서는 RIGHT OUTER 조인과 FULL OUTER 조인은 지원되고 있지 않아 다음과 같이 오류가 발생한다.
 
-![join5](C:\Users\cch\Desktop\join5.JPG)
+![join5](https://user-images.githubusercontent.com/23491962/99553651-baaa7800-2a01-11eb-98f1-1f4ded1e2f77.JPG)
+
 
 
 
@@ -125,8 +126,7 @@ FROM singer AS A CROSS
 JOIN song AS B;
 ```
 
-![join6](C:\Users\cch\Desktop\join6.JPG)
-
+![join6](https://user-images.githubusercontent.com/23491962/99553637-b8481e00-2a01-11eb-8002-084b611ee725.JPG)
 
 
 
