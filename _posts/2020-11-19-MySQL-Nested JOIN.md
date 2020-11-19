@@ -35,7 +35,7 @@ category: MySQL, Database, Query
     }
     ```
 
-- ![nested join1](C:\Users\cch\Desktop\nested join1.jpg)
+- ![nested join1](https://user-images.githubusercontent.com/23491962/99699540-640e6e00-2ad5-11eb-87d5-882e9d0b2b9f.jpg)
 
 
 
@@ -75,7 +75,7 @@ category: MySQL, Database, Query
 
 
 
-- ![nested join2](C:\Users\cch\Desktop\nested join2.jpg)
+- ![nested join2](https://user-images.githubusercontent.com/23491962/99699541-653f9b00-2ad5-11eb-90ba-8a51f5183de7.jpg)
 
 
 
